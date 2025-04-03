@@ -1,4 +1,4 @@
-import { SearchParams, ProductsResponse } from './types'; // Asegúrate de tener la ruta correcta
+import { SearchParams, ProductsResponse } from '../types'; // Asegúrate de tener la ruta correcta
 const BASE_URL = 'http://localhost:8080/api/v1/scraper';
 
 // Función para obtener los productos desde el servidor
